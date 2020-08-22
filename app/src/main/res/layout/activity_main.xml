@@ -13,9 +13,9 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="90dp"
-        android:text="Umbrella Rent"
+        android:text="@string/main_title"
         android:textColor="#0000ff"
-        android:textSize="70dp" />
+        android:textSize="70sp" />
 
     <TextView
         android:id="@+id/textView4"
@@ -23,6 +23,12 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="200dp"
-        android:text="     대여 및 반납을 원하시면 \n아래의 태그기에 태그해주세요."
-        android:textSize="25dp" />
+        android:text="@string/main_text"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button" />
 </RelativeLayout>

@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Umbrella</string>
+    <string name="main_title">Umbrella Rent</string>
+    <string name="main_text">     대여 및 반납을 원하시면 \n아래의 태그기에 태그해주세요.</string>
 </resources>

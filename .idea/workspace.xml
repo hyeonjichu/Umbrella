@@ -12,6 +12,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_30" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -28,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="layoutResourceFile" />
       </list>
     </option>
   </component>
@@ -41,9 +43,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_6_API_22" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-08-22T11:13:40.575Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="C:/Android-SDK" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunManager">
@@ -87,7 +94,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -168,6 +175,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1443" y="256" key="#PSD" timestamp="1598089601382">
+      <screen x="-1920" y="4" width="1920" height="1040" />
+    </state>
+    <state x="-1443" y="256" key="#PSD/0.0.1920.1040/-1920.4.1920.1040@-1920.4.1920.1040" timestamp="1598089601382" />
+    <state x="-1056" y="148" key="#app" timestamp="1598095722453">
+      <screen x="-1920" y="4" width="1920" height="1040" />
+    </state>
+    <state x="-1056" y="148" key="#app/0.0.1920.1040/-1920.4.1920.1040@-1920.4.1920.1040" timestamp="1598095722453" />
+    <state x="-1380" y="279" key="AndroidCreateResourceFileDialog" timestamp="1598088797270">
+      <screen x="-1920" y="4" width="1920" height="1040" />
+    </state>
+    <state x="-1380" y="279" key="AndroidCreateResourceFileDialog/0.0.1920.1040/-1920.4.1920.1040@-1920.4.1920.1040" timestamp="1598088797270" />
+    <state x="-1459" y="166" key="SettingsEditor" timestamp="1598093627884">
+      <screen x="-1920" y="4" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="166" key="SettingsEditor/0.0.1920.1040/-1920.4.1920.1040@-1920.4.1920.1040" timestamp="1598093627884" />
+    <state x="-1828" y="96" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1598095980397">
+      <screen x="-1920" y="4" width="1920" height="1040" />
+    </state>
+    <state x="-1828" y="96" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1040/-1920.4.1920.1040@-1920.4.1920.1040" timestamp="1598095980397" />
+    <state x="-1375" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1598089281208">
+      <screen x="-1920" y="4" width="1920" height="1040" />
+    </state>
+    <state x="-1375" y="328" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.4.1920.1040@-1920.4.1920.1040" timestamp="1598089281208" />
     <state x="-1274" y="85" width="745" height="912" key="find.popup" timestamp="1598086161974">
       <screen x="-1920" y="4" width="1920" height="1040" />
     </state>
