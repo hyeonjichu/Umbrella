@@ -1,5 +1,13 @@
 <resources>
     <string name="app_name">Umbrella</string>
     <string name="main_title">Umbrella Rent</string>
-    <string name="main_text">     대여 및 반납을 원하시면 \n아래의 태그기에 태그해주세요.</string>
+    <string name="main_text">       대여 및 반납을 원하시면 \n아래의 태그기에 태그해주세요.</string>
+    <string name="sub_rent">대여</string>
+    <string name="sub_return">반납</string>
+    <string name="sub_num">원하는 사물함 번호를 선택해주세요.</string>
+    <string name="sub_one">1번</string>
+    <string name="sub_two">2번</string>
+    <string name="sub_three">3번</string>
+    <string name="sub_four">4번</string>
+    <string name="sub_text">Umbrella Rent</string>
 </resources>

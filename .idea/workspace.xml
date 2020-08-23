@@ -12,7 +12,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_30" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="52000d94b2f9a4b5" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -43,15 +43,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Nexus_6_API_22" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-08-22T11:13:40.575Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="a0de4296" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-08-23T15:37:50.865Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="C:/Android-SDK" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager">
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
@@ -187,10 +187,27 @@
       <screen x="-1920" y="4" width="1920" height="1040" />
     </state>
     <state x="-1380" y="279" key="AndroidCreateResourceFileDialog/0.0.1920.1040/-1920.4.1920.1040@-1920.4.1920.1040" timestamp="1598088797270" />
-    <state x="-1459" y="166" key="SettingsEditor" timestamp="1598093627884">
-      <screen x="-1920" y="4" width="1920" height="1040" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1598198112847">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598198112847" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1598198112846">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598198112846" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1598198112846">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598198112846" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1598198112846">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598198112846" />
+    <state x="2381" y="162" key="SettingsEditor" timestamp="1598198069850">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1459" y="166" key="SettingsEditor/0.0.1920.1040/-1920.4.1920.1040@-1920.4.1920.1040" timestamp="1598093627884" />
+    <state x="2381" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598198069850" />
     <state x="-1828" y="96" width="1736" height="856" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1598095980397">
       <screen x="-1920" y="4" width="1920" height="1040" />
     </state>
@@ -203,5 +220,9 @@
       <screen x="-1920" y="4" width="1920" height="1040" />
     </state>
     <state x="-1274" y="85" width="745" height="912" key="find.popup/0.0.1920.1040/-1920.4.1920.1040@-1920.4.1920.1040" timestamp="1598086161974" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1598199963383">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1598199963383" />
   </component>
 </project>
