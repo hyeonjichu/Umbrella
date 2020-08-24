@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/blue"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/button17"
+        android:onClick="onClickLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="100sp"
+        android:layout_marginLeft="430sp"
+        android:layout_marginTop="150sp"
+        android:text="@string/admin_login" />
+
+    <EditText
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="200sp"
+        android:layout_marginTop="150sp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="id" />
+
+    <EditText
+        android:id="@+id/editTextTextPassword"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="200sp"
+        android:layout_marginTop="200sp"
+        android:ems="10"
+        android:hint="password"
+        android:inputType="textPassword" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="200sp"
+        android:layout_marginTop="100sp"
+        android:text="@string/admin_text"
+        android:textColor="#0000ff"
+        android:textSize="24sp" />
+
+</RelativeLayout>

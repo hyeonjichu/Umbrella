@@ -19,8 +19,8 @@ public class MainActivity extends Activity {
         startActivity(intent);
     }
 
-    public void onClickAdmin(View view){ //adminpage로 이동
-        Intent intent = new Intent(this,adminActivity.class);
+    public void onClickAdmin(View view){ //adminChk page 이동 > 로그인
+        Intent intent = new Intent(this,adminChkActivity.class);
         startActivity(intent);
     }
 

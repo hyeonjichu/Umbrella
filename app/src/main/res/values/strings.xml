@@ -11,10 +11,13 @@
     <string name="user_four">4번</string>
     <string name="user_text">Umbrella Rent</string>
     <string name="user_next">다음</string>
-    <string name="admin_bluetooth">블루투스 설정</string>
+    <string name="admin_bluetooth">bluetooth</string>
     <string name="admin_open">Open</string>
     <string name="admin_lock">Lock</string>
     <string name="admin_button">관리자</string>
+    <string name="admin_login">Login</string>
+    <string name="admin_text">Umbrella Admin Login</string>
     <string name="finish_finish">이용해 주셔서 감사합니다.</string>
     <string name="finish_success">대여 / 반납이 완료되었습니다. </string>
+    <string name="finish_next">3초 후 처음 화면으로 이동합니다. </string>
 </resources>

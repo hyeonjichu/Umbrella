@@ -24,6 +24,7 @@
         <activity android:name=".userActivity"/>
         <activity android:name=".adminActivity"/>
         <activity android:name=".finishActivity"/>
+        <activity android:name=".adminChkActivity"/>
     </application>
 
 </manifest>
