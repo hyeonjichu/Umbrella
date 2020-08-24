@@ -13,7 +13,7 @@
         android:layout_height="60sp"
         android:layout_marginLeft="150sp"
         android:layout_marginTop="100sp"
-        android:text="@string/sub_rent"
+        android:text="@string/user_rent"
         tools:layout_editor_absoluteX="128dp"
         tools:layout_editor_absoluteY="69dp" />
 
@@ -23,7 +23,7 @@
         android:layout_height="60sp"
         android:layout_marginLeft="350sp"
         android:layout_marginTop="100sp"
-        android:text="@string/sub_return"
+        android:text="@string/user_return"
         tools:layout_editor_absoluteX="468dp"
         tools:layout_editor_absoluteY="75dp" />
 
@@ -31,9 +31,10 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="170sp"
-        android:layout_marginTop="200sp"
-        android:text="@string/sub_num" />
+        android:layout_marginLeft="150sp"
+        android:layout_marginTop="220sp"
+        android:text="@string/user_num"
+        android:textSize="18sp" />
 
     <Button
         android:id="@+id/button4"
@@ -41,7 +42,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="250sp"
         android:layout_marginTop="250sp"
-        android:text="@string/sub_two" />
+        android:text="@string/user_two" />
 
     <Button
         android:id="@+id/button5"
@@ -49,7 +50,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="150sp"
         android:layout_marginTop="250sp"
-        android:text="@string/sub_one" />
+        android:text="@string/user_one" />
 
     <Button
         android:id="@+id/button6"
@@ -57,7 +58,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="350sp"
         android:layout_marginTop="250sp"
-        android:text="@string/sub_three" />
+        android:text="@string/user_three" />
 
     <Button
         android:id="@+id/button7"
@@ -65,24 +66,25 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="450sp"
         android:layout_marginTop="250sp"
-        android:text="@string/sub_four" />
-
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="20sp"
-        android:layout_height="20sp"
-        android:layout_marginLeft="150sp"
-        android:layout_marginTop="70sp"
-        app:srcCompat="?android:attr/textSelectHandle" />
+        android:text="@string/user_four" />
 
     <TextView
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="170sp"
+        android:layout_marginLeft="150sp"
         android:layout_marginTop="60sp"
-        android:text="@string/sub_text"
+        android:text="@string/user_text"
         android:textColor="#0000ff"
         android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/button14"
+        android:onClick="onClickUserNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="600sp"
+        android:layout_marginTop="350sp"
+        android:text="@string/user_next" />
 
 </RelativeLayout>
