@@ -7,7 +7,7 @@
     android:layout_height="match_parent">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/bluetoothBnt"
         android:layout_width="200sp"
         android:layout_height="60sp"
         android:layout_marginLeft="150sp"
@@ -30,7 +30,7 @@
         tools:layout_editor_absoluteY="159dp" />
 
     <Button
-        android:id="@+id/button8"
+        android:id="@+id/button4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="450sp"
@@ -40,7 +40,7 @@
         tools:layout_editor_absoluteY="200dp" />
 
     <Button
-        android:id="@+id/button9"
+        android:id="@+id/button3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="350sp"
@@ -50,7 +50,7 @@
         tools:layout_editor_absoluteY="260dp" />
 
     <Button
-        android:id="@+id/button10"
+        android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="250sp"
@@ -60,7 +60,7 @@
         tools:layout_editor_absoluteY="224dp" />
 
     <Button
-        android:id="@+id/button11"
+        android:id="@+id/button1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="150sp"
@@ -80,7 +80,7 @@
         android:textSize="24sp" />
 
     <Button
-        android:id="@+id/button15"
+        android:id="@+id/buttonOpen"
         android:layout_width="200sp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="150sp"
@@ -88,7 +88,7 @@
         android:text="@string/admin_open" />
 
     <Button
-        android:id="@+id/button16"
+        android:id="@+id/buttonLock"
         android:layout_width="200sp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="350sp"
@@ -104,4 +104,13 @@
         android:layout_marginTop="100sp"
         android:text="Logout"
         android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/chk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="180sp"
+        android:layout_marginTop="180sp"
+        android:text="TextView" />
+
 </RelativeLayout>

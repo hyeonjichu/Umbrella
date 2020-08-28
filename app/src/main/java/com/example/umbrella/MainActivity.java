@@ -24,4 +24,9 @@ public class MainActivity extends Activity {
         startActivity(intent);
     }
 
+    public void onClickWrong(View view){ //고장신고 안내 페이지 이동
+        Intent intent = new Intent(this,troubleActivity.class);
+        startActivity(intent);
+    }
+
 }

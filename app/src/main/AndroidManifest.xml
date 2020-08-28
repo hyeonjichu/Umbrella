@@ -25,6 +25,7 @@
         <activity android:name=".adminActivity"/>
         <activity android:name=".finishActivity"/>
         <activity android:name=".adminChkActivity"/>
+        <activity android:name=".troubleActivity"/>
     </application>
 
 </manifest>

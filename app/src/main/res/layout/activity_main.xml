@@ -45,4 +45,13 @@
         android:onClick="onClickAdmin"
         android:text="@string/admin_button" />
 
+    <Button
+        android:id="@+id/button8"
+        android:onClick="onClickWrong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50sp"
+        android:layout_marginTop="300sp"
+        android:text="고장신고" />
+
 </RelativeLayout>
